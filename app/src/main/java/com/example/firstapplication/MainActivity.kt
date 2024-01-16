@@ -18,6 +18,11 @@ class MainActivity : AppCompatActivity() {
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
+    // implementaciones  para commits
+
+    // Simulación de la implementación de la Historia de Usuario 01 - Rol: Scrum Master
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
